@@ -1,0 +1,25 @@
+.red {
+  background: red;
+  size: 24px;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.descripcion {
+  font-size: 20px;
+}
+
+p {
+  color: burlywood;
+}
+
+#titulo {
+  font-size: 32px;
+}
+.pueblo {
+  padding: 50px;
+  border: solid 20px black;
+  margin: 20px 50px 32px 100px;
+}
